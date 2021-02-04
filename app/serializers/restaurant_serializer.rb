@@ -1,5 +1,5 @@
 class RestaurantSerializer
   include FastJsonapi::ObjectSerializer
-  attributes :name, :price, :rating, :description
-  belongs_to :cuisine
+  attributes :name, :price, :rating, :description, :cuisine_id
+
 end
