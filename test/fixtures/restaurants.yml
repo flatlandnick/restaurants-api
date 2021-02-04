@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  price: 1
+  rating: 1
+  is_chain: false
+  cuisine: one
+
+two:
+  name: MyString
+  description: MyString
+  price: 1
+  rating: 1
+  is_chain: false
+  cuisine: two
